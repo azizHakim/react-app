@@ -1,4 +1,3 @@
-# react-auth
-User login and signup using Reat JS and Firebase.
+# rag-chatapp signup/signin react app
 
-Read article on [medium](https://medium.com/@Rushabh_/implementing-user-login-and-signup-with-reactjs-and-firebase-a-comprehensive-guide-7300bd33cb01)
+[rag-chat-app](https://github.com/azizHakim/rag-chatapp)
